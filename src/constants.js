@@ -9,6 +9,8 @@ export const TAG_PROPERTIES = {
   PROPERTY: 'property',
   REL: 'rel',
   SRC: 'src',
+  ONLOAD: 'onload',
+  ONERROR: 'onerror',
 };
 
 export const ATTRIBUTE_NAMES = {
