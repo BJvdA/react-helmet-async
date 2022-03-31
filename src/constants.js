@@ -11,6 +11,7 @@ export const TAG_PROPERTIES = {
   SRC: 'src',
   ONLOAD: 'onload',
   ONERROR: 'onerror',
+  MEDIA: 'media',
 };
 
 export const ATTRIBUTE_NAMES = {
